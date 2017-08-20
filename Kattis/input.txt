@@ -1,4 +1,11 @@
-3 3
-2
 3
-1
+Mozart
+Beethoven
+Bach
+5
+Hilbert
+Godel
+Poincare
+Ramanujan
+Pochhammmer
+0
