@@ -3,6 +3,8 @@ This repository contains source codes that I did when I was studying for the Nat
 
 This module is the sibling of CS2040, where they use Java instead of C++.
 
+For more information about the module, visit this website: http://www.comp.nus.edu.sg/~stevenha/cs2040c.html
+
 ## Disclaimer Warning
 Not all the source codes found in this repository will give you "Accepted" as I may have coded it halfway or have given up on it.
 
